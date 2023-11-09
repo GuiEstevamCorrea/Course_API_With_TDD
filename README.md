@@ -1,6 +1,6 @@
 ## Passo a passo
 
-1 - Clonar o repositório `git clone https://github.com/danileao/youtube-tdd-java.git`
+1 - Clonar o repositório `git clone https://github.com/GuiEstevamCorrea/TDD.git`
 
 2 - Rodar `mvn clean install` para instalar as dependências
 
